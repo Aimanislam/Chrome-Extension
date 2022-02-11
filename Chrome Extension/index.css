@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 450px;
+    background-color: rgb(60 64 67);
+    /* background-color: #ffffff;  */
+  
+
+}
+h1{
+    font-family: "Lato", Arial, sans-serif;
+/* color:  rgb(245, 86, 112); */
+color: white;
+/* color: rgb(227, 30, 245); */
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid palevioletred;
+    margin-bottom: 4px;
+    border-radius: 20px;
+}
+
+#input-btn {
+    background: palevioletred;
+    /* background: -webkit-linear-gradient(right, #00dbde,#fc00ff,#00dbde,#fc00ff); */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+    /* overflow: hidden; */
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color:  white;
+    text-decoration: none;
+}
+
+#tab-btn {
+    background-color: white;
+    /* color: #5f9341; */
+    /* background: -webkit-linear-gradient(right, #f1c40e,#26a65b,#f1c40e,#26a65b); */
+    background: palevioletred;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+
+#delete-btn {
+    background-color: white;
+     /* color: -webkit-linear-gradient(right, #00dbde,#fc00ff,#00dbde,#fc00ff);  */
+     color:palevioletred;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+}
